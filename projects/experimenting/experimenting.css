@@ -1,0 +1,13 @@
+h1 {
+    font-family: cursive;
+    background-color: indianred;
+}
+
+h2 {
+    color: firebrick;
+    list-style-type: square;
+
+}
+body{
+    background-image: url(download.jpg);
+}
